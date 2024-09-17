@@ -9,7 +9,7 @@ I am an engineering student from Tribhuwan University, Nepal. This coding was do
 #### ROTATION
 
 
-### Sub folder 
+# Sub folder 
 It contains the subtraction of the binary numbers using ##2's complement and the screenshot of the output.
 
 
