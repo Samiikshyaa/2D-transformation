@@ -9,7 +9,8 @@ I am an engineering student from Tribhuwan University, Nepal. This coding was do
 #### ROTATION
 
 
-#### Inside the sub folder it contains the subtraction of the binary numbers using 2's complement and the screenshot of the output.
+### Sub folder 
+It contains the subtraction of the binary numbers using ##2's complement and the screenshot of the output.
 
 
 # Walking Man carrying ballons
